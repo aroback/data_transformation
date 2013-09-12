@@ -1,0 +1,263 @@
+[
+   {
+    "created_at": "Thu Sep 12 19:31:47 +0000 2013",
+    "id": 378239534955130900,
+    "id_str": "378239534955130880",
+    "text": "So Voyager has left the solar system. Now we wait until it returns as a nebulous, alien built supership bent on finding the "creator"",
+    "source": "<a href="http://www.metrotwit.com/" rel="nofollow">MetroTwit</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 20893245,
+      "id_str": "20893245",
+      "name": "Andrew Roback",
+      "screen_name": "andrew0writer",
+      "location": "Chicago",
+      "description": "Ph.D. candidate in technical communication at the Illinois Institute of Technology",
+      "url": "http://t.co/pi6lEdvnSL",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/pi6lEdvnSL",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 118,
+      "friends_count": 194,
+      "listed_count": 5,
+      "created_at": "Sun Feb 15 04:46:57 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2063,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },{
+    "created_at": "Tue Sep 10 01:57:49 +0000 2013",
+    "id": 377249520838397950,
+    "id_str": "377249520838397953",
+    "text": ""Watch me write &amp; post with my \\r\\n FaNcY \\r\\n Twitter \\r\\n Client!!!!! ;o) :*(( \\\\\\\\\\\\\\" "#quotesaroundeverything"",
+    "source": "<a href="http://www.metrotwit.com/" rel="nofollow">MetroTwit</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 20893245,
+      "id_str": "20893245",
+      "name": "Andrew Roback",
+      "screen_name": "andrew0writer",
+      "location": "Chicago",
+      "description": "Ph.D. candidate in technical communication at the Illinois Institute of Technology",
+      "url": "http://t.co/pi6lEdvnSL",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/pi6lEdvnSL",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 118,
+      "friends_count": 194,
+      "listed_count": 5,
+      "created_at": "Sun Feb 15 04:46:57 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2063,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "quotesaroundeverything",
+          "indices":  [
+            99,
+            122
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "vi"
+  },
+   {
+    "created_at": "Tue Sep 10 01:51:40 +0000 2013",
+    "id": 377247973668692000,
+    "id_str": "377247973668691968",
+    "text": ""\\" is a character that does not logically belong in tweets but that wastes hours of my life when it is there",
+    "source": "<a href="http://www.metrotwit.com/" rel="nofollow">MetroTwit</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 20893245,
+      "id_str": "20893245",
+      "name": "Andrew Roback",
+      "screen_name": "andrew0writer",
+      "location": "Chicago",
+      "description": "Ph.D. candidate in technical communication at the Illinois Institute of Technology",
+      "url": "http://t.co/pi6lEdvnSL",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/pi6lEdvnSL",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 118,
+      "friends_count": 194,
+      "listed_count": 5,
+      "created_at": "Sun Feb 15 04:46:57 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2063,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/278736326/composers_partial.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2168502207/IMG_0204_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }]

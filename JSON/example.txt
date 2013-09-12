@@ -1,0 +1,395 @@
+[
+   {
+    "created_at": "Tue Feb 26 05:10:42 +0000 2013",
+    "id": 306270038321688600,
+    "id_str": "306270038321688576",
+    "text": "Thanks to all the Chicago area human services orgs following me! Feel free to follow my list of area NPOs or contact me with questions!",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 982182979,
+      "id_str": "982182979",
+      "name": "Andrew J. Roback",
+      "screen_name": "Roback_Research",
+      "location": "Chicago, IL",
+      "description": "Researching NPO's use of Twitter. Owned by Andrew Roback, @andrew0writer, Ph.D. candidate at Illinois Institute of Technology. Please contact me with questions.",
+      "url": "http://t.co/13FivBScC5",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/13FivBScC5",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 266,
+      "listed_count": 0,
+      "created_at": "Sat Dec 01 09:19:21 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Thu Jan 24 20:25:55 +0000 2013",
+    "id": 294541564309540860,
+    "id_str": "294541564309540864",
+    "text": "Started Twitter data collection today!",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 982182979,
+      "id_str": "982182979",
+      "name": "Andrew J. Roback",
+      "screen_name": "Roback_Research",
+      "location": "Chicago, IL",
+      "description": "Researching NPO's use of Twitter. Owned by Andrew Roback, @andrew0writer, Ph.D. candidate at Illinois Institute of Technology. Please contact me with questions.",
+      "url": "http://t.co/13FivBScC5",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/13FivBScC5",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 266,
+      "listed_count": 0,
+      "created_at": "Sat Dec 01 09:19:21 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Wed Dec 12 19:58:02 +0000 2012",
+    "id": 278951865478180860,
+    "id_str": "278951865478180864",
+    "text": "RT @matthewheston: @andrew0writer this might be something you dig? http://t.co/vdMJzYAi",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 982182979,
+      "id_str": "982182979",
+      "name": "Andrew J. Roback",
+      "screen_name": "Roback_Research",
+      "location": "Chicago, IL",
+      "description": "Researching NPO's use of Twitter. Owned by Andrew Roback, @andrew0writer, Ph.D. candidate at Illinois Institute of Technology. Please contact me with questions.",
+      "url": "http://t.co/13FivBScC5",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/13FivBScC5",
+              "expanded_url": "http://andrewroback.com",
+              "display_url": "andrewroback.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 24,
+      "friends_count": 266,
+      "listed_count": 0,
+      "created_at": "Sat Dec 01 09:19:21 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3158151521/7f04126feec1b803558cd74b15fe9ed0_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": false,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Wed Dec 12 18:41:48 +0000 2012",
+      "id": 278932681889312770,
+      "id_str": "278932681889312768",
+      "text": "@andrew0writer this might be something you dig? http://t.co/vdMJzYAi",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 20893245,
+      "in_reply_to_user_id_str": "20893245",
+      "in_reply_to_screen_name": "andrew0writer",
+      "user":  {
+        "id": 570377669,
+        "id_str": "570377669",
+        "name": "Matthew Heston",
+        "screen_name": "matthewheston",
+        "location": "Chicago",
+        "description": "Sociotechnical researcher in training. Language enthusiast. Joke teller.",
+        "url": "http://t.co/6AzVl6Xjz2",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/6AzVl6Xjz2",
+                "expanded_url": "http://www.matthewheston.com",
+                "display_url": "matthewheston.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 86,
+        "friends_count": 301,
+        "listed_count": 2,
+        "created_at": "Thu May 03 23:46:58 +0000 2012",
+        "favourites_count": 8,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 618,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "25401F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3355022971/a7b9c1295cc0557c4b1a911e7442871d_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3355022971/a7b9c1295cc0557c4b1a911e7442871d_normal.jpeg",
+        "profile_link_color": "27332D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": false,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/vdMJzYAi",
+            "expanded_url": "http://mashable.com/2012/12/12/non-profits-social-media-infographic/",
+            "display_url": "mashable.com/2012/12/12/non…",
+            "indices":  [
+              48,
+              68
+            ]
+          }
+        ],
+        "user_mentions":  [
+           {
+            "screen_name": "andrew0writer",
+            "name": "Andrew Roback",
+            "id": 20893245,
+            "id_str": "20893245",
+            "indices":  [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/vdMJzYAi",
+          "expanded_url": "http://mashable.com/2012/12/12/non-profits-social-media-infographic/",
+          "display_url": "mashable.com/2012/12/12/non…",
+          "indices":  [
+            67,
+            87
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "matthewheston",
+          "name": "Matthew Heston",
+          "id": 570377669,
+          "id_str": "570377669",
+          "indices":  [
+            3,
+            17
+          ]
+        },
+         {
+          "screen_name": "andrew0writer",
+          "name": "Andrew Roback",
+          "id": 20893245,
+          "id_str": "20893245",
+          "indices":  [
+            19,
+            33
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }]
